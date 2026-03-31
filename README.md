@@ -31,13 +31,19 @@ The goal is to demonstrate how different search algorithms perform in realistic,
 
 ```
 .
+real-time-autonomous-navigation-system/
+│
 ├── agent_pathfinding_env.py   # Core logic (grid, agent, algorithms)
-├── main.py                   # Runs experiments and simulation
-├── pygame_ui.py              # Visualization module
-├── README.md
-└── Statement.md
+├── pygame_ui.py               # Visualization (Pygame)
+├── main.py                    # Runs experiments + simulation
+│
+├── README.md                  # Project explanation
+├── statement.md               # Problem + approach
+├── project-report.pdf         # Final report
+│
+├── requirements.txt           # Dependencies
+└── requirements.md            # Dependencies
 ```
-
 ---
 
 ## ⚙️ Installation & Setup
@@ -116,6 +122,10 @@ Simulating delivery routing where:
 
 ## 👨‍💻 Author
 
-Developed as part of the **Bring Your Own Project (BYOP)** assignment.
+     Siddharth Sharma | 25BCE10977
+     B. Tech CSE Core | First Year
+     VIT Bhopal University
+Developed as part of the **Bring Your Own Project (BYOP)**.
+
 
 ---
